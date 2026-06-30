@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/karandas621-tech/leetcode-and-geekcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/karandas621-tech/leetcode-and-geekcode/tree/master/0152-maximum-product-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -15,4 +16,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/karandas621-tech/leetcode-and-geekcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/karandas621-tech/leetcode-and-geekcode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
