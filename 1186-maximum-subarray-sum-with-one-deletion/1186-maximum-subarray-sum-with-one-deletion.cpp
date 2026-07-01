@@ -11,8 +11,8 @@ public:
             int v3=arr[i];
             withdel=max(v2,withoutdel);
             withoutdel=max(v1,v3);
-            int best=max(withdel,withoutdel);
-            ans=max(ans,best);
+            ans=max(ans,max(withdel,withoutdel));
+            
         }
         return ans;
 
